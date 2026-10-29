@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=35&pause=1000&color=89CFF0&center=true&vCenter=true&width=600&lines=Ve~+It's+Axis+Angel+%E2%99%A1" alt="Ve~ It's Axis Angel ♡" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=35&pause=1000&color=89CFF0&center=true&vCenter=true&width=650&lines=Ve~+It's+Axis+Angel+%E2%99%A1;Let's+eat+some+pasta!!+%F0%9F%8D%9D;Il+dolce+far+niente!+%F0%9F%87%AE%F0%9F%87%B9&loop=true" alt="Typing animation" />
 </div>
