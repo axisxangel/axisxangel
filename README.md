@@ -9,3 +9,8 @@
 ⤷ ゛italy fan! ` ˗
 
 </div>
+<div align="center">
+  <img src="https://www.gifs.cc/lines/blue-stars.gif"
+       width="100%"
+       alt="Moving star divider">
+</div>
