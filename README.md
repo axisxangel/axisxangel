@@ -10,5 +10,10 @@
 
 </div>
 <div align="center">
- <img width="1280" height="186" alt="image" src="https://github.com/user-attachments/assets/bb70d661-6a9c-43c3-bf76-e300c48e4a71" />
+  <img
+    width="280"
+    height="158"
+    alt="image"
+    src="https://github.com/user-attachments/assets/e41625ac-eb70-448f-b578-bf1d6d6d68b3"
+  />
 </div>
