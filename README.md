@@ -17,7 +17,8 @@
   />
 </div>
 
-</div>
 <div align="center">
-*"I know I'm weak, but at least I'm cute!"*🍃
+  <p style="font-family: Georgia, serif; font-size: 20px; font-style: italic; color: #6495ED;">
+    "I know I'm weak, but at least I'm cute!"
+  </p>
 </div>
