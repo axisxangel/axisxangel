@@ -19,5 +19,5 @@
 
 </div>
 <div align="center">
-*"I know I'm weak, but at least I'm cute!" 🍃* 
+*"I know I'm weak, but at least I'm cute!"*🍃
 </div>
