@@ -1,4 +1,3 @@
-<img width="1200" height="674" alt="image" src="https://github.com/user-attachments/assets/b0587d50-262a-4df6-b42d-e2a13bc2fab7" />
-<h1 align="center">
-  <span style="color:#89CFF0;">Ve~ It's Axis Angel ♡</span>
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=35&pause=1000&color=89CFF0&center=true&vCenter=true&width=600&lines=Ve~+It's+Axis+Angel+%E2%99%A1" alt="Ve~ It's Axis Angel ♡" />
+</div>
