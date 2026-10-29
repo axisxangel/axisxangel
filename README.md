@@ -11,9 +11,8 @@
 </div>
 <div align="center">
   <img
+    src="https://c.tenor.com/HqdjJQdreIQAAAAC/tenor.gif"
     width="280"
-    height="158"
-    alt="image"
-    src="https://github.com/user-attachments/assets/e41625ac-eb70-448f-b578-bf1d6d6d68b3"
+    alt="Animated Hetalia GIF"
   />
 </div>
