@@ -6,11 +6,9 @@
 
 (= ⩊ =)೨
 
-⤷ ゛italy fan! ` ˗
+⤷ ゛ı𝗍⍺ℓყ ƒ⍺ղ! ˗
 
 </div>
 <div align="center">
-  <img src="https://www.gifs.cc/lines/blue-stars.gif"
-       width="100%"
-       alt="Moving star divider">
+  <img width="300" height="50" alt="image" src="https://github.com/user-attachments/assets/1c4d6c51-5237-400d-9625-f02c5b87e6df" />
 </div>
